@@ -1,0 +1,17 @@
+{
+  "name": "Jest_Testing_Basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch":"jest --watchAll"    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jest": "^27.0.3"
+  }
+}
